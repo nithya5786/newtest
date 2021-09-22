@@ -2,6 +2,7 @@ package week1.day1;
 
 public class Bicycle 
 {
+	//method for getCycleColor
 	public String getCycleColor() 
 	{
 return "blue";
